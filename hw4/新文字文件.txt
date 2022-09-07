@@ -1,0 +1,9 @@
+1.
+(a)NRU replace(移除近來未使用的page)
+   Ans. Page0 (R-bit=0)
+(b)FIFO replace(移除Load入最久的page)
+   Ans. Page2 (在120單位時間時就被Load入)
+(c)LRU replace(移除最久未使用的page)
+   Ans. Page1 (page1 最後被參考是在260單位時間)
+(d)second page replace
+
